@@ -1,3 +1,5 @@
 # WalkThroughApp
 Android Studio
-ConstraintLayout|Animation|Pager|Slider|TextView|CardView|ImageView|
+Theme|Introduction|ConstraintLayout|Animation|Pager|Slider|TextView|CardView|ImageView|
+
+*APK is the Release section*
